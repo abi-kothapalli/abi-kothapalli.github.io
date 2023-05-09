@@ -11,18 +11,19 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Vanderbilt University</p>
+    <p>Nashville, TN 37235</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there 👋. I am a third-year BS/MS student at Vanderbilt University, studying computer science and pure mathematics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At Vanderbilt, I work in the <a href='https://mint-vu.github.io/'>Machine Intelligence and Neural Technologies (MINT) Lab</a> under the supervision of <a href='https://skolouri.github.io/'>Soheil Kolouri</a>. I also work closely with <a href='https://dcmoyer.github.io/'>Dr. Daniel Moyer</a>, <a href='http://www.vuse.vanderbilt.edu/~koutsoxd/'>Dr. Xenofon Koutsoukos</a>, and <a href='https://engineering.vanderbilt.edu/bio/mudassir-shabbir'>Dr. Mudassir Shabbir</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have also previously worked as a software engineering intern at <a href='https://www.meta.com/'>Meta</a>, and a quantitative trading intern at <a href='https://sig.com/'>Susquehanna International Group (SIG)</a>.
+
+<b>Research Interests:</b> I am interested in designing scalable, efficient, and explainable machine learning systems that can reliably solve real-world problems. More specifically, my research interestes include geometric deep learning, representation learning, computational optimal transport, and algorithms/complexity theory.
