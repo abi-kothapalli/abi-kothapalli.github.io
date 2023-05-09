@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: > 
     <b>Computer Science and Mathematics at <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a></b> <br>

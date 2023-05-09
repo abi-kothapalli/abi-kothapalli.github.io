@@ -1,97 +1,70 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Computer Science
+      institution: Vanderbilt University, TN, USA
+      year: 2023-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: "Relevant Coursework"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - "<u>Computer Science:</u> Design & Analysis of Algorithms, Advanced Machine Learning*"
+            - "<u>Mathematics:</u> Graduate Analysis*, Topology*"
+    - title: B.S. in Computer Science and Mathematics (double major)
+      institution: Vanderbilt University, TN, USA
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
+        - Minor in Scientific Computing
+        - title: "Relevant Coursework"
+          contents:
+            - "<u>Computer Science:</u> Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Programming Languages, Operating Systems, Automata Theory*"
+            - "<u>Mathematics:</u> Real Analysis, Complex Analysis, Multivariate Analysis, Advanced Linear Algebra, Probability & Mathematical Statistics, Abstract Algebra*"
 
-- title: Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: Vanderbilt University
+      year: 2021 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Teaching assistant for MATH 2820: Introduction to Probability and Mathematical Statistics. Hold weekly office hours and grade problem sets and exams."
+        - "Previously served as teaching assistant for CS 2201: Data Structures."
+    - title: Quantitative Trading Intern
+      institution: Susquehanna International Group, Bala Cynwyd, Pennsylvania
+      year: Summer 2023
+
+    - title: Software Engineering Intern
+      institution: Meta, Menlo Park, California
+      year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Hosted by the Ads ML Automation team.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - ICPC Mid-Central Regional Bronze Medalist (Top 12 Teams)
+    - year: 2022
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Putnam Top 500
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
+        - Cornelius Vanderbilt Scholarship (Full-Tuition Merit Scholarship)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
