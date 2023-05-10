@@ -19,12 +19,12 @@
             - "<u>Computer Science:</u> Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Programming Languages, Operating Systems, Automata Theory*"
             - "<u>Mathematics:</u> Real Analysis, Complex Analysis, Multivariate Analysis, Advanced Linear Algebra, Probability & Mathematical Statistics, Abstract Algebra*"
 
-- title: Industry Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Teaching Assistant
       institution: Vanderbilt University
-      year: 2021 - 
+      year: 2021 - Ongoing
       description:
         - "Teaching assistant for MATH 2820: Introduction to Probability and Mathematical Statistics. Hold weekly office hours and grade problem sets and exams."
         - "Previously served as teaching assistant for CS 2201: Data Structures."
