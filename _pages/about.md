@@ -26,4 +26,4 @@ At Vanderbilt, I work in the <a href='https://mint-vu.github.io/'>Machine Intell
 
 I have also previously worked as a software engineering intern at <a href='https://www.meta.com/'>Meta</a>, and a quantitative trading intern at <a href='https://sig.com/'>Susquehanna International Group (SIG)</a>.
 
-<b>Research Interests:</b> I am interested in designing scalable, efficient, and explainable machine learning systems that can reliably solve real-world problems. More specifically, my research interestes include geometric deep learning, representation learning, computational optimal transport, and algorithms/complexity theory.
+<!-- <b>Research Interests:</b> I am interested in designing scalable, efficient, and explainable machine learning systems that can reliably solve real-world problems. More specifically, my research interestes include geometric deep learning, representation learning, computational optimal transport, and algorithms/complexity theory. -->
