@@ -19,16 +19,31 @@
             - "<u>Computer Science:</u> Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Discrete Structures, Software Design, Digital Systems, Programming Languages, Operating Systems"
             - "<u>Mathematics:</u> Real Analysis, Complex Analysis, Multivariate Analysis, Advanced Linear Algebra, Probability & Mathematical Statistics, Abstract Algebra"
 
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Research Assistant
+      institution: Machine Intelligence and Neural Technologies (MINT) Lab, Vanderbilt University
+      year: 2022 - Ongoing
+      description:
+        - Research in geometric deep learning and optimal transport theory.
+    - title: Undergraduate Research Assistant
+      institution: Koutsoukos Lab, Vanderbilt University
+      year: 2021 - Ongoing
+      description:
+        - Research in deep learning and algorithms.
+
+
 - title: Work Experience
   type: time_table
   contents:
     - title: Teaching Assistant & Graduate Recitation Tutor
       institution: Vanderbilt University
-      year: 2021 - Ongoing
+      year: 2022 - Ongoing
       description:
-        - "Teaching assistant for CS 4262: Foundations of Machine Learning. Graduate recitation tutor for MATH 1300, 1301, and 2420 (Calculus I, Calculus II, and Differential Equations)."
-        - "Hold weekly office hours to assist students, review course materials, answer questions, and grade assignments and exams."
-        - "Previous teaching assistant for MATH 2820: Probability and Mathematical Statistics, and CS 2201: Data Structures."
+        - "Teaching assistant for CS 4262: Foundations of Machine Learning."
+        - "Graduate recitation tutor for MATH 1300, 1301, and 2420 (Calculus I, Calculus II, and Differential Equations)."
+        - "Previous teaching assistant for MATH 2820: Probability and Mathematical Statistics and CS 2201: Data Structures."
     - title: Quantitative Trading Intern
       institution: Susquehanna International Group, Bala Cynwyd, Pennsylvania
       year: Summer 2023
