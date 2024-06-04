@@ -137,6 +137,92 @@
 
   <picture>
     
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/pgw_preview-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/pgw_preview-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/pgw_preview-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/pgw_preview.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="pgw_preview.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="bai2024partial" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Partial Gromov-Wasserstein Metric</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <a href="https://yikun-baio.github.io/" rel="external nofollow noopener" target="_blank">Yikun Bai</a>, Rocio Diaz Martin*, <em><b>Abihith Kothapalli*</b></em>, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Hengrong Du, Xinran Liu, Soheil Kolouri' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          May 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2402.03664" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-arxiv-id="2402.03664"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The Gromov-Wasserstein (GW) distance has gained increasing interest in the machine learning community in recent years, as it allows for the comparison of measures in different metric spaces. To overcome the limitations imposed by the equal mass requirements of the classical GW problem, researchers have begun exploring its application in unbalanced settings. However, Unbalanced GW (UGW) can only be regarded as a discrepancy rather than a rigorous metric/distance between two metric measure spaces (mm-spaces). In this paper, we propose a particular case of the UGW problem, termed Partial Gromov-Wasserstein (PGW). We establish that PGW is a well-defined metric between mm-spaces and discuss its theoretical properties, including the existence of a minimizer for the PGW problem and the relationship between PGW and GW, among others. We then propose two variants of the Frank-Wolfe algorithm for solving the PGW problem and show that they are mathematically and computationally equivalent. Moreover, based on our PGW metric, we introduce the analogous concept of barycenters for mm-spaces. Finally, we validate the effectiveness of our PGW metric and related solvers in applications such as shape matching, shape retrieval, and shape interpolation, comparing them against existing baselines.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">bai2024partial</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Partial Gromov-Wasserstein Metric}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Bai, Yikun and Martin*, Rocio Diaz and Kothapalli*, Abihith and Du, Hengrong and Liu, Xinran and Kolouri, Soheil}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">may</span><span class="p">,</span>
+  <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2402.03664}</span><span class="p">,</span>
+  <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
+  <span class="na">primaryclass</span> <span class="p">=</span> <span class="s">{cs.LG}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
     <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/s3w_preview-480.webp"></source>
     <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/s3w_preview-800.webp"></source>
     <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/s3w_preview-1400.webp"></source>
@@ -252,7 +338,7 @@
         
         
         <div class="periodical">
-          <em>arXiv</em>, Jun 2023
+          Jun 2023
         </div>
         <div class="periodical">
           
@@ -277,7 +363,7 @@
           </div>
 <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">kothapalli2023learningbased</span><span class="p">,</span>
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">kothapalli2023learningbased</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{{Learning-Based Heuristic for Combinatorial Optimization of the Minimum Dominating Set Problem using Graph Convolutional Networks}}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Kothapalli, Abihith and Shabbir, Mudassir and Koutsoukos, Xenofon}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
@@ -339,7 +425,7 @@
         
         
         <div class="periodical">
-          <em>arXiv</em>, Jun 2023
+          Jun 2023
         </div>
         <div class="periodical">
           
@@ -363,7 +449,7 @@
           </div>
 <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">shahbazi2023equivariant</span><span class="p">,</span>
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">shahbazi2023equivariant</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{{Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification}}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Shahbazi*, Ashkan and Kothapalli*, Abihith and Liu, Xinran and Sheng, Robert and Kolouri, Soheil}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
@@ -467,7 +553,7 @@
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2024 Abi  Kothapalli. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
-Last updated: April 27, 2024.
+Last updated: June 04, 2024.
       </div>
     </footer>
 
