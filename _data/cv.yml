@@ -8,12 +8,12 @@
         - title: "Relevant Coursework"
           contents:
             - "<u>Computer Science:</u> Design & Analysis of Algorithms, Advanced Machine Learning, Extended Mathematical Programming, Geometric Deep Learning"
-            - "<u>Mathematics:</u> Real Analysis I & II, Topology I & II, Functional Analysis"
+            - "<u>Mathematics:</u> Real Analysis I & II, Topology I & II, Functional Analysis, Modern Algebra I (Planned), Complex Analysis I (Planned), Operator Algebras (Planned)"
     - title: B.S. in Computer Science and Mathematics (double major)
       institution: Vanderbilt University, TN, USA
       year: 2021-2025
       description:
-        - Minor in Scientific Computing
+        - Minors in Physics & Scientific Computing
         - title: "Relevant Coursework"
           contents:
             - "<u>Computer Science:</u> Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Discrete Structures, Software Design, Digital Systems, Programming Languages, Operating Systems"
@@ -23,15 +23,23 @@
   type: time_table
   contents:
     - title: Undergraduate Research Assistant
+      institution: Department of Mathematics, Vanderbilt University
+      year: 2024 - Ongoing
+      description:
+        - Research in optimal transport theory.
+        - "Advisor: Prof. Akram Aldroubi."
+    - title: Undergraduate Research Assistant
       institution: Machine Intelligence and Neural Technologies (MINT) Lab, Vanderbilt University
       year: 2022 - Ongoing
       description:
-        - Research in geometric deep learning and optimal transport theory.
+        - Research in geometric deep learning and computional optimal transport.
+        - "Advisor: Prof. Soheil Kolouri."
     - title: Undergraduate Research Assistant
-      institution: Koutsoukos Lab, Vanderbilt University
-      year: 2021 - Ongoing
+      institution: Institute for Software Integrated Systems, Vanderbilt University
+      year: 2021 - 2024
       description:
-        - Research in deep learning and algorithms.
+        - Research in deep learning and algorithms for combinatorial optimization.
+        - "Advisor: Prof. Xenofon Koutsoukos."
 
 
 - title: Work Experience
@@ -61,13 +69,17 @@
   contents:
     - year: 2024
       items: 
-        - ICPC North American Championship (NAC) Finalist (Mid-Central Regional 2nd Place & Gold Medalist)
+        - ICPC North American Championship (NAC) Finalist & Honorable Mention (Mid-Central Regional Gold Medalist, 2nd Place)
+        - "Vanderbilt Undergraduate Research Fair: Two-Time Best Poster in Engineering, Computer Science, and Mathematics"
+        - Vanderbilt Graduate School Travel Grant ($1,000)
+        - Vanderbilt School of Engineering Research Travel Grant ($500)
+        - Vanderbilt Data Science Institute Summer Research Fellow ($6,000)
     - year: 2022
       items: 
         - Putnam Top 500
     - year: 2021
       items:
-        - Cornelius Vanderbilt Scholarship (Full-Tuition Merit Scholarship)
+        - Cornelius Vanderbilt Scholarship (Full-Tuition Merit Scholarship; ~$250,000)
 
 # - title: Academic Interests
 #   type: nested_list

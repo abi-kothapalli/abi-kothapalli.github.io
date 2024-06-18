@@ -20,9 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there 👋. I am a third-year BS/MS student at Vanderbilt University, studying computer science and pure mathematics.
+Hello there 👋. I am a fourth-year BS/MS student at Vanderbilt University, studying computer science and pure mathematics.
 
-At Vanderbilt, I work in the <a href='https://mint-vu.github.io/'>Machine Intelligence and Neural Technologies (MINT) Lab</a> under the supervision of <a href='https://skolouri.github.io/'>Soheil Kolouri</a>. I also work closely with <a href='https://dcmoyer.github.io/'>Dr. Daniel Moyer</a>, <a href='http://www.vuse.vanderbilt.edu/~koutsoxd/'>Dr. Xenofon Koutsoukos</a>, and <a href='https://engineering.vanderbilt.edu/bio/mudassir-shabbir'>Dr. Mudassir Shabbir</a>.
+At Vanderbilt, I work in the <a href='https://mint-vu.github.io/'>Machine Intelligence and Neural Technologies (MINT) Lab</a> under the supervision of <a href='https://skolouri.github.io/'>Prof. Soheil Kolouri</a>. I am also currently working with <a href='https://math.vanderbilt.edu/aldroua/'>Prof. Akram Aldroubi</a>. In the past, I have worked closely with <a href='https://dcmoyer.github.io/'>Prof. Daniel Moyer</a>, <a href='http://www.vuse.vanderbilt.edu/~koutsoxd/'>Prof. Xenofon Koutsoukos</a>, and <a href='https://engineering.vanderbilt.edu/bio/?pid=mudassir-shabbir'>Prof. Mudassir Shabbir</a>.
 
 I have also previously worked as a software engineering intern at <a href='https://www.meta.com/'>Meta</a>, and a quantitative trading intern at <a href='https://sig.com/'>Susquehanna International Group (SIG)</a>.
 

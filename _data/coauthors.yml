@@ -1,6 +1,6 @@
 "Tran":
   - firstname: ["Huy"]
-    url: https://huytranirl.github.io/
+    url: https://www.huyml.com/
 
 "Bai":
   - firstname: ["Yikun"]
@@ -9,3 +9,15 @@
 "Kolouri":
   - firstname: ["Soheil"]
     url: https://skolouri.github.io/
+
+"Martin":
+  - firstname: ["Rocio Diaz"]
+    url: https://sites.google.com/view/rociodiazmartin
+
+"Koutsoukos":
+  - firstname: ["Xenofon"]
+    url: http://www.vuse.vanderbilt.edu/~koutsoxd/
+
+"Shabbir": 
+  - firstname: ["Mudassir"]
+    url: https://engineering.vanderbilt.edu/bio/?pid=mudassir-shabbir
