@@ -102,11 +102,6 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-.honor {
-  color: var(--global-theme-color);
-  font-weight: bolder;
-}
-
 p,
 h1,
 h2,
