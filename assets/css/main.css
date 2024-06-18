@@ -102,6 +102,11 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+.honor {
+  color: var(--global-theme-color);
+  font-weight: bolder;
+}
+
 p,
 h1,
 h2,
@@ -604,10 +609,6 @@ footer.sticky-bottom {
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
-}
-.publications ol.bibliography li .honor {
-  color: var(--global-theme-color);
-  font-weight: bolder;
 }
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
